@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            MetaNoia
+tagline:          'Blog pessoal.'
+description:      'Blog pessoal.'
+url:              http://metanoia.blog.br
+
+author:
+  name:           'Érico Rodrigues'
+  url:            https://www.facebook.com/EricoRodrigues11
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/metanoia39/metanoia.github.io
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
