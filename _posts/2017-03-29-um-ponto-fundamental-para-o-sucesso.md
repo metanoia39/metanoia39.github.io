@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Um ponto fundamental para o sucesso.
-—-
+---
 
 <div class="message">Um ponto fundamental para o sucesso.</div>
 
