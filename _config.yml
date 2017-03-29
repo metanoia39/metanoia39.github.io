@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-rouge:         true
+highlighter: rouge
 encoding: utf-8
 
 # Permalinks
@@ -23,6 +23,13 @@ version:          0.0.1
 
 github:
   repo:           https://github.com/metanoia39/metanoia.github.io
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
 
 gems:
   - jekyll-feed
