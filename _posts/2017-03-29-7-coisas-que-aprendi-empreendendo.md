@@ -1,7 +1,7 @@
-﻿--
+﻿---
 layout: post
-title: 9 Coisas que Aprendi Empreendendo e Qualquer Pessoa Pode Aplicar Na vida, a 7ª é fundamental.
---
+title: 9 Coisas que Aprendi Empreendendo e Qualquer Pessoa Pode Aplicar Na vida, a 7 é fundamental.
+---
 
 <div class="message">Primeiro post do blog, depois de muito tempo e promessas, saiu! \õ/</div>
 
