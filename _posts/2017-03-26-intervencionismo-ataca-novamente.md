@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Intervencionismo ataca novamente
 ---
