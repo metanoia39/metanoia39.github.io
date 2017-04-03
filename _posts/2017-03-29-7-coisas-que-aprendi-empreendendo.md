@@ -1,6 +1,6 @@
 ﻿---
-layout: page
-title: Sobre
+layout: post
+title: teste
 ---
 <div class="message">Primeiro post do blog, depois de muito tempo e promessas, saiu! \õ/</div>
 
