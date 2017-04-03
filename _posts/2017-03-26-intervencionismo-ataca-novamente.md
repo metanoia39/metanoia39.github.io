@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title: Intervencionismo ataca novamente
+title: ntervencionismo ataca novamente
 ---
 
 <div class="message">
