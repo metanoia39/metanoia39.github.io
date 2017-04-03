@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: ntervencionismo ataca novamente
+title: ataca novamente
 ---
 
 <div class="message">
