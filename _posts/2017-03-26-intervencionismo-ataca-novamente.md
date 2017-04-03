@@ -3,7 +3,9 @@ layout: post
 title: Intervencionismo ataca novamente
 ---
 
-<div class="message">Primeiro post do blog, depois de muito tempo e promessas, saiu! \õ/</div>
+<div class="message">
+Primeiro post do blog, depois de muito tempo e promessas, saiu! \õ/
+</div>
 
 
 ### 1 - Eu sou responsável pelos meus resultados
