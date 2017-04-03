@@ -8,7 +8,7 @@ title: 9 Coisas que Aprendi Empreendendo e Podem Ser Aplicadas na Vida, a 7 é f
 No dia a dia empreendendo passamos por diversas situações que nos trazem lições de vida que podem ser aplicada na vida de qualquer um. Separei 9 aprendizados que tive para compartilhar com voces!
 
 
-+ Um - Eu sou responsável pelos meus resultados
++ ## Um - Eu sou responsável pelos meus resultados
 
 Lógico que os resultados de qualquer pessoa sofre influencias externas do ambiente e de outras pessoas, agora a responsabilidade de como agir diante das circunstâncias para buscar os resultados desejados são meus e apenas meus.
 
