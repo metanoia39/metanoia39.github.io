@@ -1,9 +1,12 @@
 ﻿---
 layout: post
-title: Um ponto fundamental para o sucesso.
+title: 9 Coisas que Aprendi Empreendendo e Qualquer Pessoa Pode Aplicar Na vida, a 7ª é fundamental.
 ---
 
-<div class="message">Um ponto fundamental para o sucesso.</div>
+<div class="message">Primeiro post do blog, depois de muito tempo e promessas, saiu! \õ/</div>
+
+No dia a dia empreendendo passamos por diversas situações que nos trazem lições de vida que podem ser aplicada na vida de qualquer um. 
+
 
 #### Um - Eu sou responsável pelos meus resultados
 
