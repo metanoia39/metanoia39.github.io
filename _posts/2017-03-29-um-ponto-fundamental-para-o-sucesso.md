@@ -5,45 +5,45 @@ title: Um ponto fundamental para o sucesso.
 
 <div class="message">Um ponto fundamental para o sucesso.</div>
 
-##### Você já viu que algumas pessoas estão sempre se preparando pra algo?
+##### voce jÃ¡ viu que algumas pessoas estÃ£o sempre se preparando pra algo?
 
 Elas dizem:
-*Quando eu terminar a graduação eu estarei preparado.*
+*Quando eu terminar a graduaÃ§Ã£o eu estarei preparado.*
 
-Aí terminam a graduação e dizem:
-*Quando eu terminar o mestrado tô pronto.* 
+AÃ­ terminam a graduaÃ§Ã£o e dizem:
+*Quando eu terminar o mestrado tÃ´ pronto.*
 
-Acabam o mestrado, e aí? Dizem o que? 
-*Quando terminar o doutorado eu começo.*
+Acabam o mestrado, e aÃ­? Dizem o que?
+*Quando terminar o doutorado eu comeÃ§o.*
 
-Preparação é indispensável, lógico! 
+PreparaÃ§Ã£o Ã© indispensÃ¡vel, lÃ³gico!
 
 Agora dessa forma a vida se torna um eterno treino, jamais partindo para o jogo.
 
-E, seja por insegurança, seja por medo, acabam perdendo um tempo precioso, deixando a ação sempre pra depois. 
+E, seja por inseguranÃ§a, seja por medo, acabam perdendo um tempo precioso, deixando a aÃ§Ã£o sempre pra depois.
 
-Além disso, tem o outro lado da moeda.
+AlÃ©m disso, tem o outro lado da moeda.
 
 Vamos imaginar um jogador de futebol.
 
-Ele treina para se tornar um jogador profissional, esta na direção correta,  e consegue estreiar no time de cima. 
+Ele treina para se tornar um jogador profissional, esta na direÃ§Ã£o correta,  e consegue estreiar no time de cima.
 
-Mas ele não consegue render nada pois ainda não tem maturidade e controle emocional o bastante para aguentar a pressão de um jogo em alto nível. 
+Mas ele nÃ£o consegue render nada pois ainda nÃ£o tem maturidade e controle emocional o bastante para aguentar a pressÃ£o de um jogo em alto nÃ­vel.
 
-Então concluímos que, por mais que você esteja na direção correta, se tentar fazer as coisas antes de estar preparado, antes de desenvolver as habilidades necessárias, também não conseguirá render aquilo que esperava e vai acabar se frustrando.
+EntÃ£o concluÃ­mos que, por mais que voce esteja na direÃ§Ã£o correta, se tentar fazer as coisas antes de estar preparado, antes de desenvolver as habilidades necessÃ¡rias, tambÃ©m nÃ£o conseguirÃ¡ render aquilo que esperava e vai acabar se frustrando.
 
 E como resolver isso?
 
-É simples, você pode ir agindo de acordo suas habilidades atuais.
+Ã‰ simples, voce pode ir agindo de acordo suas habilidades atuais.
 
-Você não precisa esperar ter todas as habilidades para começa  (comece com o que tem).
+voce nÃ£o precisa esperar ter todas as habilidades para comeÃ§a  (comece com o que tem).
 
-Então passe para o próximo nível quando perceber que as coisas já estão ficando fáceis demais pra você. (A gente sempre percebe).
+EntÃ£o passe para o prÃ³ximo nÃ­vel quando perceber que as coisas jÃ¡ estÃ£o ficando fÃ¡ceis demais pra voce. (A gente sempre percebe).
 
-##### É só buscar sempre um equilíbrio entre:
+##### Ã‰ sÃ³ buscar sempre um equilÃ­brio entre:
 
-*Fazer aquilo que você já sabe.*
+*Fazer aquilo que voce jÃ¡ sabe.*
 
-*Aprender aquilo que é preciso para alçar voos mais altos.*
+*Aprender aquilo que Ã© preciso para alÃ§ar voos mais altos.*
 
-*E esticar seus níveis aos poucos até alcançar aquilo que antes parecia impossível.*
+*E esticar seus nÃ­veis aos poucos atÃ© alcanÃ§ar aquilo que antes parecia impossÃ­vel.*
