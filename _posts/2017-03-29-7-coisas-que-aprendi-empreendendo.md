@@ -7,13 +7,13 @@ title: Um ponto fundamental para o sucesso.
 
 #### Um - Eu sou responsável pelos meus resultados
 
-Lógico que os resultados de qualquer pessoa sofre influências externas do ambiente e de outras pessoas, agora a responsabilidade de como agir diante das circunstâncias para buscar os resultados desejados são meus e apenas meus.
+Lógico que os resultados de qualquer pessoa sofre influencias externas do ambiente e de outras pessoas, agora a responsabilidade de como agir diante das circunstâncias para buscar os resultados desejados são meus e apenas meus.
 
 #### Dois - Sair da zona de conforto não é nada cômodo, mas é necessário.
 
 Crescer dói, já dizia minha mãe quando eu era criança e falava que minhas pernas estavam doendo. E aprendi que na vida também é assim, para crescermos precisamos sair da nossa zona de conforto e nos expor a situações assustadoras que, para muitos, é impossível superar. Até que, por fim, olhamos para trás e vemos o quanto valeu a pena desrespeitar o Status Quo.
 
-#### Três - É necessário não se contaminar.
+#### Tres - É necessário não se contaminar.
 
 No dia a dia acabamos tendo contato com pessoas de vários tipos e é altamente recomendado que aprendamos a não nos contaminar com as medíocres, preguiçosas e negativas, pois elas geralmente tentam (mesmo que sem querer) frustrar os sonhos alheios.
 
@@ -35,8 +35,8 @@ Nós tendemos a dizer sim para grande maioria das coisas, só que se queremos ch
 
 #### Oito - É preciso fugir da média.
 
-Tendemos a nos moldarmos de acordo com a média, isso é normal. Aprendemos desde criança que temos que nos esforçar para alcançar a média e passar nas matérias. O que me assustou foi quando percebi que isso é ser medíocre(Literalmente).. Então percebi que devo buscar a excelência, não a média.
+Tendemos a nos moldarmos de acordo com a média, isso é normal. Aprendemos desde criança que temos que nos esforçar para alcançar a média e passar nas matérias. O que me assustou foi quando percebi que isso é ser medíocre(Literalmente).. Então percebi que devo buscar a excelencia, não a média.
 
 #### Nove - Ser honesto comigo mesmo.
 
-As vezes é difícil parar e reconhecer o quão medíocres estamos sendo em alguma área de nossa vidas, a tendência é que fujamos em discutir áreas problemáticas, o que faz com que os problemas aumentem. Aprendi que é melhor ser honesto comigo mesmo enfrentando as situações e apagando a primeira chama do que postergar e ter que apagar um incêndio depois.
+As vezes é difícil parar e reconhecer o quão medíocres estamos sendo em alguma área de nossa vidas, a tendencia é que fujamos em discutir áreas problemáticas, o que faz com que os problemas aumentem. Aprendi que é melhor ser honesto comigo mesmo enfrentando as situações e apagando a primeira chama do que postergar e ter que apagar um incendio depois.
