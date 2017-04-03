@@ -1,6 +1,5 @@
 ﻿
 ---
-
 layout: post
 
 title: 9 Coisas que Aprendi Empreendendo e Qualquer Pessoa Pode Aplicar Na vida, a 7 é fundamental.
