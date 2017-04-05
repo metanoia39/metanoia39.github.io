@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: ataca novamente
+title: Ataca novamente
 ---
 
 <div class="message">
