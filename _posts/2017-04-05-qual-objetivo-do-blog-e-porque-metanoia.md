@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qual objetivo do Blog e porquê METANOIA?
+title: Qual objetivo do Blog e porque METANOIA?
 ---
 
 <div class="message">
@@ -9,7 +9,7 @@ title: Qual objetivo do Blog e porquê METANOIA?
 
 Faala galera, beleza?
 
-Já faz algum tempo que em conversas com amigos falei que iria criar um blog para postar sobre as experiências que tenho tido e compartilhar meus aprendizados com o mundo (entenda como mundo aqueles que entrarem no blog. haha).
+Já faz algum tempo que em conversas com amigos falei que iria criar um blog para postar sobre as experiencias que tenho tido e compartilhar meus aprendizados com o mundo (entenda como mundo aqueles que entrarem no blog. haha).
 
 Recebi bastante apoio para isso e então resolvi fazer mesmo. E aqui estamos nós! (Palmas).
 
@@ -19,7 +19,7 @@ Eu creio piamente que mudanças verdadeiras acontecem através de uma mudança em n
 
 #### O que seria Mindset?
 
-Pense em um computador: a configuração e os programas instalados nele vão ditar a forma como ele funciona e a maneira como ele processa os arquivos e atinge os resultados: Por exemplo: Se você quer abrir um documento do Word em seu computador você tem que ter uma configuraçã que permita a instalação do software OFFICE WORD, para aí sim poder abrir o arquivo.
+Pense em um computador: a configuração e os programas instalados nele vão ditar a forma como ele funciona e a maneira como ele processa os arquivos e atinge os resultados: Por exemplo: Se voce quer abrir um documento do Word em seu computador voce tem que ter uma configuraçã que permita a instalação do software OFFICE WORD, para aí sim poder abrir o arquivo.
 
 Com nossa mente acontece algo parecido. 
 
@@ -31,7 +31,7 @@ Quando modificamos nossos pensamentos conseguimos realizar mudanças em nosso Min
 
 Tenho aprendido bastante com isso, aplicando em meus Projetos e obtendo excelentes resultados (falarei sobre os meus projetos aqui no blog em BREVE).
 
-Pretendo, na medida do possível e do que tenho aprendido, compartilhar tudo aqui com vocês em textos curtos (outros nem tão curtos assim).
+Pretendo, na medida do possível e do que tenho aprendido, compartilhar tudo aqui com voces em textos curtos (outros nem tão curtos assim).
 
 Até o próximo post! Abraços.
 
