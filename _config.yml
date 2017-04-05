@@ -32,7 +32,6 @@ compress_html:
   profile: false
 
 gems:
-  - jekyll-feed
   - jekyll-paginate
 exclude:
   - Gemfile

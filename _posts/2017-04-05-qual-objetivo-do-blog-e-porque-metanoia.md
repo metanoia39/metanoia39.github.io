@@ -2,6 +2,7 @@
 layout: post
 title: Qual objetivo do Blog e porque METANOIA?
 ---
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 
 <div class="message">
   Primeira post do blog! SAAAAIUUU!
@@ -9,30 +10,30 @@ title: Qual objetivo do Blog e porque METANOIA?
 
 Faala galera, beleza?
 
-J· faz algum tempo que em conversas com amigos falei que iria criar um blog para postar sobre as experiencias que tenho tido e compartilhar meus aprendizados com o mundo (entenda como mundo aqueles que entrarem no blog. haha).
+J√° faz algum tempo que em conversas com amigos falei que iria criar um blog para postar sobre as experiencias que tenho tido e compartilhar meus aprendizados com o mundo (entenda como mundo aqueles que entrarem no blog. haha).
 
-Recebi bastante apoio para isso e ent„o resolvi fazer mesmo. E aqui estamos nÛs! (Palmas).
+Recebi bastante apoio para isso e ent√£o resolvi fazer mesmo. E aqui estamos n√≥s! (Palmas).
 
-Ao pensar em um nome para o blog me veio a mente a palavra METANOIA, que signifca mudanÁa na essencia do pensamento.
+Ao pensar em um nome para o blog me veio a mente a palavra METANOIA, que signifca mudan√ßa na essencia do pensamento.
 
-Eu creio piamente que mudanÁas verdadeiras acontecem atravÈs de uma mudanÁa em nosso Mindset.
+Eu creio piamente que mudan√ßas verdadeiras acontecem atrav√©s de uma mudan√ßa em nosso Mindset.
 
 #### O que seria Mindset?
 
-Pense em um computador: a configuraÁ„o e os programas instalados nele v„o ditar a forma como ele funciona e a maneira como ele processa os arquivos e atinge os resultados: Por exemplo: Se voce quer abrir um documento do Word em seu computador voce tem que ter uma configuraÁ„ que permita a instalaÁ„o do software OFFICE WORD, para aÌ sim poder abrir o arquivo.
+Pense em um computador: a configura√ß√£o e os programas instalados nele v√£o ditar a forma como ele funciona e a maneira como ele processa os arquivos e atinge os resultados: Por exemplo: Se voce quer abrir um documento do Word em seu computador voce tem que ter uma configura√ß√£ que permita a instala√ß√£o do software OFFICE WORD, para a√≠ sim poder abrir o arquivo.
 
-Com nossa mente acontece algo parecido. 
+Com nossa mente acontece algo parecido.
 
-Podemos comparar nossa mente com o computador, nossas crenÁas e valores com as configuraÁıes desse computador, e as habilidades que desenvolvemos como os softwares que s„o instalados nele para atingir os resultados desejados.
+Podemos comparar nossa mente com o computador, nossas cren√ßas e valores com as configura√ß√µes desse computador, e as habilidades que desenvolvemos como os softwares que s√£o instalados nele para atingir os resultados desejados.
 
-Ent„o Mindset È a configuraÁ„o da nossa mente.
+Ent√£o Mindset √© a configura√ß√£o da nossa mente.
 
-Quando modificamos nossos pensamentos conseguimos realizar mudanÁas em nosso Mindset de forma a configur·-lo para obter melhores resultados.
+Quando modificamos nossos pensamentos conseguimos realizar mudan√ßas em nosso Mindset de forma a configur√°-lo para obter melhores resultados.
 
 Tenho aprendido bastante com isso, aplicando em meus Projetos e obtendo excelentes resultados (falarei sobre os meus projetos aqui no blog em BREVE).
 
-Pretendo, na medida do possÌvel e do que tenho aprendido, compartilhar tudo aqui com voces em textos curtos (outros nem t„o curtos assim).
+Pretendo, na medida do poss√≠vel e do que tenho aprendido, compartilhar tudo aqui com voces em textos curtos (outros nem t√£o curtos assim).
 
-AtÈ o prÛximo post! AbraÁos.
+At√© o pr√≥ximo post! Abra√ßos.
 
 
