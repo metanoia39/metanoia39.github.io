@@ -4,9 +4,11 @@ title: Qual objetivo do Blog e porque METANOIA?
 ---
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 
-<div class="message">Primeiro post do blog, depois de muito tempo e promessas, saiu! \õ/</div>
+<div class="message">Segundo post do blog, depois de muito tempo e promessas, tá indo! \õ/</div>
 
-No dia a dia empreendendo passamos por diversas situações que nos trazem lições de vida que podem ser aplicada na vida de qualquer um. Separei 9 aprendizados que tive para compartilhar com voces!
+Como falei no  [primeiro post](http://blog.da2k.com.br) mudanças de pensamento nos levam a mudanças de configuração da nossa mente, gerando novas emoções, novas ações e consequentemente novos resultados.
+
+Hoje vou compartilhar com vocês 9 lições que mudaram minha forma de pensar e trouxeram excelentes resultados no meu dia a dia empreendendo e que servem para a vida.
 
 
 ### 1 - Eu sou responsável pelos meus resultados
@@ -39,8 +41,8 @@ Nós tendemos a dizer sim para grande maioria das coisas, só que se queremos ch
 
 ### 8 - É preciso fugir da média.
 
-Tendemos a nos moldarmos de acordo com a média, isso é normal. Aprendemos desde criança que temos que nos esforçar para alcançar a média e passar nas matérias. O que me assustou foi quando percebi que isso é ser medíocre(Literalmente).. Então percebi que devo buscar a excelencia, não a média.
+Tendemos a nos moldarmos de acordo com a média, isso é normal. Aprendemos desde criança que temos que nos esforçar para alcançar a média e passar nas matérias. O que me assustou foi quando percebi que isso é ser medíocre(Literalmente).. Então percebi que devo buscar a excelência, não a média.
 
 #### 9 - Ser honesto comigo mesmo.
 
-As vezes é difícil parar e reconhecer o quão medíocres estamos sendo em alguma área de nossa vidas, a tendencia é que fujamos em discutir áreas problemáticas, o que faz com que os problemas aumentem. Aprendi que é melhor ser honesto comigo mesmo enfrentando as situações e apagando a primeira chama do que postergar e ter que apagar um incendio depois.
+As vezes é difícil parar e reconhecer o quão medíocres estamos sendo em alguma área de nossa vidas, a tendencia é que fujamos em discutir áreas problemáticas, o que faz com que os problemas aumentem. Aprendi que é melhor ser honesto comigo mesmo enfrentando as situações e apagando a primeira chama do que postergar e ter que apagar um incêndio depois.
