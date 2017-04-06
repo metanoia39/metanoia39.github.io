@@ -1,7 +1,8 @@
 ﻿---
 layout: post
-title: Qual objetivo do Blog e porque METANOIA?
+title: 9 Coisas Que Aprendi Empreendendo e Servem para a Vida, a 7 é fundamental.
 ---
+
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
 
 <div class="message">Segundo post do blog, depois de muito tempo e promessas, tá indo! \õ/</div>
