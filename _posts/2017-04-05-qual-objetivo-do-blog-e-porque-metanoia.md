@@ -20,7 +20,7 @@ Eu creio piamente que mudanças verdadeiras acontecem através de uma mudança e
 
 #### O que seria Mindset?
 
-Pense em um computador: a configuração e os programas instalados nele vão ditar a forma como ele funciona e a maneira como ele processa os arquivos e atinge os resultados: Por exemplo: Se voce quer abrir um documento do Word em seu computador voce tem que ter uma configuraçã que permita a instalação do software OFFICE WORD, para aí sim poder abrir o arquivo.
+Pense em um computador: a configuração e os programas instalados nele vão ditar a forma como ele funciona e a maneira como ele processa os arquivos e atinge os resultados: Por exemplo: Se  quer abrir um documento do Word em seu computador você tem que ter uma configuraçã que permita a instalação do software OFFICE WORD, para aí sim poder abrir o arquivo.
 
 Com nossa mente acontece algo parecido.
 
@@ -32,7 +32,7 @@ Quando modificamos nossos pensamentos conseguimos realizar mudanças em nosso Mi
 
 Tenho aprendido bastante com isso, aplicando em meus Projetos e obtendo excelentes resultados (falarei sobre os meus projetos aqui no blog em BREVE).
 
-Pretendo, na medida do possível e do que tenho aprendido, compartilhar tudo aqui com voces em textos curtos (outros nem tão curtos assim).
+Pretendo, na medida do possível e do que tenho aprendido, compartilhar tudo aqui com s em textos curtos (outros nem tão curtos assim).
 
 Até o próximo post! Abraços.
 
