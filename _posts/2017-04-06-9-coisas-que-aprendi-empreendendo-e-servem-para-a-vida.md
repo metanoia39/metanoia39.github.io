@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 9 coisas que aprendi empreendendo e servem para a vida.
 ---
