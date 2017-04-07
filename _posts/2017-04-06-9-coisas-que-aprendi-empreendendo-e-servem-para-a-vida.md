@@ -7,7 +7,7 @@ title: 9 coisas que aprendi empreendendo e servem para a vida.
 
 <div class="message">Segundo post do blog, depois de muito tempo e promessas, tá indo! \õ/</div>
 
-Como falei no  [primeiro post](http://blog.da2k.com.br) mudanças de pensamento nos levam a mudanças de configuração da nossa mente, gerando novas emoções, novas ações e consequentemente novos resultados.
+Como falei no  [primeiro post](http://metanoia.blog.br/2017/04/05/qual-objetivo-do-blog-e-porque-metanoia/) mudanças de pensamento nos levam a mudanças de configuração da nossa mente, gerando novas emoções, novas ações e consequentemente novos resultados.
 
 Hoje vou compartilhar com vocês 9 lições que mudaram minha forma de pensar e trouxeram excelentes resultados no meu dia a dia empreendendo e que servem para a vida.
 
