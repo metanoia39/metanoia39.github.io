@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: 9 Coisas Que Aprendi Empreendendo e Servem para a Vida, a 7 é fundamental.
+title: 9 coisas que aprendi empreendendo e servem para a vida.
 ---
 
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
