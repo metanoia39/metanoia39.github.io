@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: 9 coisas que aprendi empreendendo e servem para a vida.
 ---
@@ -44,6 +44,6 @@ Nós tendemos a dizer sim para grande maioria das coisas, só que se queremos ch
 
 Tendemos a nos moldarmos de acordo com a média, isso é normal. Aprendemos desde criança que temos que nos esforçar para alcançar a média e passar nas matérias. O que me assustou foi quando percebi que isso é ser medíocre(Literalmente).. Então percebi que devo buscar a excelência, não a média.
 
-#### 9 - Ser honesto comigo mesmo.
+### 9 - Ser honesto comigo mesmo.
 
 As vezes é difícil parar e reconhecer o quão medíocres estamos sendo em alguma área de nossa vidas, a tendencia é que fujamos em discutir áreas problemáticas, o que faz com que os problemas aumentem. Aprendi que é melhor ser honesto comigo mesmo enfrentando as situações e apagando a primeira chama do que postergar e ter que apagar um incêndio depois.
